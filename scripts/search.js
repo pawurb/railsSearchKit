@@ -6,6 +6,7 @@
 
   var setSearchEvent = function(data){
     var searchBox = document.getElementById(data.fieldId);
+
     searchBox.onkeypress = function(e){
       var searchURL = data.url + this.value;
       if (e.keyCode == 13) {
@@ -13,6 +14,10 @@
           window.close();
         });
       }
+    }
+
+    searchBox.onblur = function() {
+      this.value = '';
     }
   }
 
