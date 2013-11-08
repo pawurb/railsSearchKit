@@ -1,0 +1,8 @@
+body {
+  width: 280px;
+}
+
+.form-control {
+  margin: 10px;
+  width: 90%;
+}

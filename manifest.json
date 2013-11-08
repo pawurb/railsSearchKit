@@ -1,0 +1,11 @@
+{
+  "name": "Rails Dev Search",
+  "description": "One click access to search bars every Rails developer needs",
+  "version": "0.1.0",
+  "browser_action": {
+    "default_title": "Rails Dev Search",
+    "default_popup": "search_bars.html",
+    "default_icon": "icon.png"
+  },
+  "manifest_version": 2
+}
