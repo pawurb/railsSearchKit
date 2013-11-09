@@ -2,7 +2,16 @@ body {
   width: 280px;
 }
 
+input {
+  display: inline;
+}
+
+img {
+  margin-left: 10px;
+}
+
 .form-control {
-  margin: 10px;
-  width: 90%;
+  margin: 5px;
+  width: 80%;
+  display: inline;
 }
