@@ -1,7 +1,7 @@
 {
   "name": "Rails Dev Search",
   "description": "One click access to the search bars every Rails developer needs",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "browser_action": {
     "default_title": "Rails Dev Search",
     "default_popup": "search_bars.html",
