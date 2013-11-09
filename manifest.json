@@ -7,5 +7,8 @@
     "default_popup": "search_bars.html",
     "default_icon": "icon.png"
   },
+  "icons": {
+    "128": "icon128.png"
+  },
   "manifest_version": 2
 }

@@ -9,7 +9,7 @@
 
     searchBox.onkeypress = function(e){
       var searchURL = data.url + this.value;
-      if (e.keyCode == 13) {
+      if (e.keyCode == 13) { //enter pressed
         chrome.tabs.update({ url: searchURL }, function(){
           window.close();
         });
