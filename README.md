@@ -1,5 +1,5 @@
-railsDevSearch
-==============
+Rails Search Kit
+================
 
 This Chrome extension provides one click access to the search bars every Rails developer needs.
 
