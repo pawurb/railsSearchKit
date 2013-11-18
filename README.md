@@ -3,6 +3,6 @@ Rails Search Kit
 
 This Chrome extension provides one-keystroke access to the search bars every Rails developer needs.
 
-[Check it out!](https://chrome.google.com/webstore/detail/rails-search-kit/mbffhkcblmeaokcipfiockenaijcoikg)
+<a href="https://chrome.google.com/webstore/detail/rails-search-kit/mbffhkcblmeaokcipfiockenaijcoikg" target="_blank">Check it out on Chrome Store</a>
 
-![Alt text](/images/view.jpg "Optional title")
+![Alt text](/images/view.jpg "Preview")
