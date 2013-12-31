@@ -1,7 +1,7 @@
 {
   "name": "Rails Search Kit",
   "description": "One-keystroke access to the search bars every Rails developer needs",
-  "version": "0.2.0",
+  "version": "0.2.3",
   "browser_action": {
     "default_title": "Rails Search Kit",
     "default_popup": "search_bars.html",
@@ -14,7 +14,7 @@
     "_execute_browser_action": {
       "suggested_key": {
         "default": "Ctrl+Shift+F",
-        "mac": "Ctrl+Shift+F"
+        "mac": "MacCtrl+Shift+F"
       }
     }
   },
