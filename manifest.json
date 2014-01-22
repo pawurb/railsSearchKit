@@ -1,9 +1,9 @@
 {
-  "name": "Rails Search Kit",
+  "name": "Ruby on Rails Search Kit",
   "description": "One-keystroke access to the search bars every Rails developer needs",
-  "version": "0.2.3",
+  "version": "0.2.4",
   "browser_action": {
-    "default_title": "Rails Search Kit",
+    "default_title": "Ruby on Rails Search Kit",
     "default_popup": "search_bars.html",
     "default_icon": "images/popup-icon.png"
   },
